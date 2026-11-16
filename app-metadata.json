@@ -1,0 +1,21 @@
+{
+  "number": 9,
+  "name": "Slash",
+  "source": "https://github.com/yourselfhosted/slash",
+  "docker_hub": "yourselfhosted/slash",
+  "tag": "1.0.0-rc.3",
+  "repository": "https://github.com/waskevin/tnas-app-slash",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "screenshot_path": "precheck-screenshots/slash/x86_64/run.png",
+  "screenshot_status": "captured",
+  "developer_name": "管浩良",
+  "developer_email": "k.kuan@qq.com",
+  "submission_status": "not_submitted",
+  "scheduled_publish": "20:00",
+  "runtime_status": "startup_failed",
+  "runtime_note": "app-1  | 2026/11/16 14:01:02 WARN failed to find migration history in pre-migrate error=\"SQL logic error: no such table: migration_history (1)\""
+}
